@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1049897049032",
+    "project_id": "faceclone-1",
+    "storage_bucket": "faceclone-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049897049032:android:e243d86c161de849a23efd",
+        "android_client_info": {
+          "package_name": "com.example.face_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_xBKuwvUo4wCq_oUx1QRfmiQ81aiNp6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

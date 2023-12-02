@@ -15,7 +15,7 @@ FaceClone is an ambitious project that aims to replicate the user interface of F
 1. Cloning the repository:
 
 ```
-$ git clone https://github.com/AbdallahEbrahim1/face_clone
+$ git clone https://github.com/AbdallahEbrahim1/face_clone.git
 ```
 
 2. Open the project:
